@@ -1,6 +1,6 @@
 {
-    "baseUrl": "https://smartminers.glitchtrapbot.xyz",
-    "domain": "https://smartminers.glitchtrapbot.xyz",
+    "baseUrl": "http://localhost:3001",
+    "domain": "http://localhost:3001",
     "pages": [
         "dashboard", "courses"
     ]
